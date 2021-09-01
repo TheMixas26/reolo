@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://i.ytimg.com/vi/-SCI-nv47dI/maxresdefault.jpg);
+    filter:contrast(200%);
+    display: flex;
+    flex-direction: column;
+    
+}
+.text{
+    text-align: center;
+    margin-left: 20px;
+}
+h1{
+    text-align: center;
+}
+.discord{
+    display: flex;
+    justify-content: space-around;
+}
+.whatsapp{
+    display: flex;
+    justify-content: space-around;
+}
+.dswh{
+    flex-direction: row;
+}
