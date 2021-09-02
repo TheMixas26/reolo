@@ -9,9 +9,11 @@ body{
 .text{
     text-align: center;
     margin-left: 20px;
+    color: rgb(0, 255, 255);
 }
 h1{
     text-align: center;
+    color: rgb(0, 255, 255);
 }
 .discord{
     background-color: rgb(0, 255, 255);
