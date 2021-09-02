@@ -1,10 +1,8 @@
 body{
-    background-image: url(https://i.ytimg.com/vi/-SCI-nv47dI/maxresdefault.jpg);
-    filter:contrast(200%);
+    filter: contrast(200%);
     display: flex;
     flex-direction: column;
     align-items: center;
-    
 }
 .text{
     text-align: center;
